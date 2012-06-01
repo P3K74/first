@@ -42,5 +42,6 @@ $Lang = array(
 "err16"=>"Fill all fields",
 "add"=>"add material",
 "wmat"=>"watch material",
+"error"=>"some error",
 );
 ?>
