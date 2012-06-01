@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 $Lang = array(
  "login" 		=> "Логін",
  "password" => "Пароль",
@@ -39,5 +39,9 @@ $Lang = array(
 "err12"=>"пароль має бути введений латинськимим буквами",
 "err13"=>"будь ласка повторіть ваш пароль",
 "err14"=>"Помилка, паролі різні",
+"err15"=>"Login or password is incorrect",
+"err16"=>"Fill all fields",
+"add"=>"add material",
+"wmat"=>"watch material",
 );
 ?>
